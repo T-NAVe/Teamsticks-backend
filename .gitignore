@@ -1,5 +1,4 @@
 node_modules
 backend-vsc-workspace.code-workspace
-.gitignore
 .env
 package-lock.json
